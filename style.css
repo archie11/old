@@ -1,0 +1,13 @@
+   * {
+  font-family: 'Georgia', 'Times', serif;
+}
+
+a {
+  color: SeaGreen;
+  text-decoration: none;
+}
+
+body {
+	background-image: url('https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-1/01/background.jpg');
+
+}
